@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="api_key">e9295761f6e3354a9029b886b8538416</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="description">Description</string>
+    <string name="release_date">Release Date</string>
+    <string name="setting_language">Setting Language</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+</resources>
